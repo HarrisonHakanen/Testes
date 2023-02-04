@@ -1,0 +1,12 @@
+Alguns testes sendo realizados utilizando os indicadores
+TSI que já é utilizado para criar os modelos e o ROC que é
+um potêncial indicador para criar modelos futuros.
+
+O método de suvização gaussiano está sendo mostrado nos testes
+e comparado com o TSI e o ROC.
+
+Existe um outro método de suavização que está sendo testado. Ele
+utiliza o fft. No caso, estamos utilizando ele para
+suavizar o tsi da mesma forma que já é feito utilizado o gaussiano.
+Pode ser feitos testes utilizando esse método de suavização e 
+criar alguns modelos de exemplo.
